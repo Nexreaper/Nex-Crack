@@ -41,3 +41,4 @@ Streams large files line-by-line
    ```bash
    git clone https://github.com/yourusername/nex-crack.git
    cd nex-crack
+   python Nex-Crack.py
